@@ -321,7 +321,7 @@
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-java-sdk-s3</artifactId>
-      <version>1.11.404</version>
+      <version>1.12.261</version>
       <scope>test</scope>
       <exclusions>
         <exclusion>
@@ -338,7 +338,7 @@
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
-      <version>1.2.3</version>
+      <version>1.2.13</version>
     </dependency>
     <dependency>
       <groupId>javax.xml.bind</groupId>
@@ -348,7 +348,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12</version>
+      <version>4.13.1</version>
       <!-- Required for S3ProxyRule -->
       <scope>provided</scope>
     </dependency>
